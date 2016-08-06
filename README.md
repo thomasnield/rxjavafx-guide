@@ -1,3 +1,8 @@
-# My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![](http://blog.soat.fr/wp-content/uploads/2015/06/b63db6fc1161931ff8375eb6e7e6f26c-150x150.png) 
+
+# RxJavaFX Guide
+
+### A Comprehensive Coverage of RxJava and JavaFX Interop
+
+Thomas Nield 
