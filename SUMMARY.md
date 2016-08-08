@@ -1,3 +1,3 @@
 # Summary
-* [Introduction](0. Introduction.md)
+* [Preface](0. Preface.md)
 * [1. Getting Started](1. Getting Started.md)
