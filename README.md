@@ -3,6 +3,6 @@
 
 # RxJavaFX Guide
 
-### A Comprehensive Coverage of RxJava and JavaFX Interop
+### A Comprehensive Coverage of RxJavaFX and RxKotlinFX
 
 Thomas Nield 
