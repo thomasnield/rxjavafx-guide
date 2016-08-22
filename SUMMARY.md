@@ -7,5 +7,5 @@
 * [5. Combining Observables] 
 * [6. Bindings, Dialogs, and Multicasting]
 * [7. Concurrency]
-* [8. Backpressure]
+* [8. Switching, Throttling, and Buffering]
 * [9. Event Models]
