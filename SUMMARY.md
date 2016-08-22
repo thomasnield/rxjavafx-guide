@@ -5,7 +5,7 @@
 * [3. Events and Value Changes](3. Events and Value Changes.md)
 * [4. Collections](4. Collections.md)
 * [5. Combining Observables] 
-* [6. Bindings and Dialogs]
+* [6. Bindings, Dialogs, and Multicasting]
 * [7. Concurrency]
-* [8. Event Models]
-* [9. Backpressure]
+* [8. Backpressure]
+* [9. Event Models]
