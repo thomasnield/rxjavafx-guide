@@ -9,4 +9,4 @@
 * [7. Dialogs and Multicasting](7. Dialogs and Multicasting.md)
 * [8. Concurrency]
 * [9. Switching, Throttling, and Buffering]
-* [10. Event Models]
+* [10. CompositeObservable]
