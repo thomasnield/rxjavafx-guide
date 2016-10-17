@@ -8,5 +8,5 @@
 * [6. Bindings](6. Bindings.md)
 * [7. Dialogs and Multicasting](7. Dialogs and Multicasting.md)
 * [8. Concurrency](8. Concurrency.md)
-* [9. Switching, Throttling, and Buffering]
+* [9. Switching, Throttling, and Buffering](9. Switching, Throttling, and Buffering.md)
 * [10. CompositeObservable]
