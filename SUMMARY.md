@@ -9,4 +9,4 @@
 * [7. Dialogs and Multicasting](7. Dialogs and Multicasting.md)
 * [8. Concurrency](8. Concurrency.md)
 * [9. Switching, Throttling, and Buffering](9. Switching, Throttling, and Buffering.md)
-* [10. Decoupling Reactive Streams](10. Decoupling Reactive Streams.md)
+* [10. Decoupling](10. Decoupling.md)
