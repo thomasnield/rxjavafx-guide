@@ -6,7 +6,7 @@
 
 Thomas Nield
 
-**NOTE: This covers RxJavaFX 1.0, not RxJavaFX 2.0. This book is being updated for RxJavaFX 2.x on the 2.x branch**
+**NOTE: This covers RxJavaFX 2.x**
 
 
 <br><br><br><br>
